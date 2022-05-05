@@ -124,7 +124,6 @@ description: Software End User Agreement for KX Insights Google Cloud Platform
 11.7	**Third Party Dependencies.** You accept and agree that KXI may require you to have third party software and web services installed for KXI to operate which may be identified by us in the documentation as “Dependencies”.  Such Dependencies are made available by third parties and are subject to terms and conditions between you and those third parties. Dependencies licensed by you are not part of KXI and this Agreement does not apply to them (regardless if we recommend or reference such software in our documentation or if we facilitate the delivery to you). You will ensure that you are using the version of the Dependencies recommended by us in the documentation or otherwise noted by us as being the optimal version of the Dependencies to be used for or in connection with KXI. Under no circumstances, shall we be liable for any Dependencies operated or used by you or any failure by you to install or use the recommended version of the Dependencies.
 
 
-
 ## SCHEDULE 1:
 
 Information Reported to KX The following KXI variables are reported (which are upon notice, subject to change):
